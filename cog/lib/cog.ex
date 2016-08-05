@@ -1,0 +1,2 @@
+defmodule Cog do
+end
